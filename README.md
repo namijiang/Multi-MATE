@@ -20,3 +20,8 @@ Accepted commands will be listed upon first connection with arduino (or after is
 ![Setup](assets/CAD.png)
 ![Workflow](assets/workflow.png)
 ![CBCT](assets/CBCT_M1M6_axial.png)
+
+# Citation
+title = {Technical Note: Multi-MATE, A High-Throughput Platform For Automated Image-Guided Small-Animal Irradiation}
+Author = {Lu Jiang, Pavitra Ramesh, Ryan Neph, Ke Sheng}
+The manuscript was recently accepted by Medical Physics and it was in press.
